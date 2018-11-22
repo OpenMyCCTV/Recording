@@ -1,0 +1,5 @@
+VersionInfo.h
+depend
+*.a
+*.o
+Recording
